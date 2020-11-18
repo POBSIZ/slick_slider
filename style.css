@@ -1,0 +1,28 @@
+*{
+    outline: none;
+}
+
+body{
+    background:#ccc;
+}
+h3 {
+    background: #fff;
+    color: #3498db;
+    font-size: 36px;
+    line-height: 100px;
+    position: relative;
+    text-align: center;
+}
+.slider{
+    margin: auto;
+    width: 500px;
+}
+
+.slick-dots{
+    top: 110px;
+    z-index: 10;
+}
+
+
+
+
